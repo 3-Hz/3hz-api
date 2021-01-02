@@ -1,0 +1,27 @@
+{
+  "name": "linus-rants-api",
+  "version": "1.0.0",
+  "description": "linus go brrrr",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3-Hz/3hz-linus.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "3-Hz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3-Hz/3hz-linus/issues"
+  },
+  "homepage": "https://github.com/3-Hz/3hz-linus#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
