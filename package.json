@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/3-Hz/3hz-linus.git"
+    "url": "git+https://github.com/3-Hz/3hz-api.git"
   },
   "keywords": [
     "node",
@@ -18,9 +18,9 @@
   "author": "3-Hz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/3-Hz/3hz-linus/issues"
+    "url": "https://github.com/3-Hz/3hz-api/issues"
   },
-  "homepage": "https://github.com/3-Hz/3hz-linus#readme",
+  "homepage": "https://github.com/3-Hz/3hz-api#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
