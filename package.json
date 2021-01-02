@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/3-Hz/3hz-api#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   }
 }
